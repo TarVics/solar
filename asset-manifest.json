@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/solar/static/css/main.6d75df0e.css",
-    "main.js": "/solar/static/js/main.c51b743f.js",
+    "main.js": "/solar/static/js/main.094128d1.js",
     "static/media/title.jpg": "/solar/static/media/title.e8733735f53b81ff5440.jpg",
     "static/media/footer.jpg": "/solar/static/media/footer.8984a018893a2dfac432.jpg",
     "static/media/quote.jpg": "/solar/static/media/quote.bec485312bc0a08af9a8.jpg",
@@ -12,10 +12,10 @@
     "static/media/green-tariff-left.jpg": "/solar/static/media/green-tariff-left.3fe626d3933f866eb495.jpg",
     "index.html": "/solar/index.html",
     "main.6d75df0e.css.map": "/solar/static/css/main.6d75df0e.css.map",
-    "main.c51b743f.js.map": "/solar/static/js/main.c51b743f.js.map"
+    "main.094128d1.js.map": "/solar/static/js/main.094128d1.js.map"
   },
   "entrypoints": [
     "static/css/main.6d75df0e.css",
-    "static/js/main.c51b743f.js"
+    "static/js/main.094128d1.js"
   ]
 }
