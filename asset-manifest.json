@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tarvics.github.io/solar/static/css/main.a25033c0.css",
+    "main.js": "/tarvics.github.io/solar/static/js/main.38d10161.js",
+    "static/media/title.jpg": "/tarvics.github.io/solar/static/media/title.e8733735f53b81ff5440.jpg",
+    "static/media/footer.jpg": "/tarvics.github.io/solar/static/media/footer.8984a018893a2dfac432.jpg",
+    "static/media/quote.jpg": "/tarvics.github.io/solar/static/media/quote.bec485312bc0a08af9a8.jpg",
+    "static/media/services.jpg": "/tarvics.github.io/solar/static/media/services.ca36154c7fd18d829d89.jpg",
+    "static/media/five-steps.jpg": "/tarvics.github.io/solar/static/media/five-steps.c0e34ed60c74a1e87a21.jpg",
+    "static/media/green-tariff.jpg": "/tarvics.github.io/solar/static/media/green-tariff.b90ab45d996d910d719f.jpg",
+    "static/media/our-clients.jpg": "/tarvics.github.io/solar/static/media/our-clients.b2ef633f097cb654749c.jpg",
+    "static/media/green-tariff-left.jpg": "/tarvics.github.io/solar/static/media/green-tariff-left.3fe626d3933f866eb495.jpg",
+    "index.html": "/tarvics.github.io/solar/index.html",
+    "main.a25033c0.css.map": "/tarvics.github.io/solar/static/css/main.a25033c0.css.map",
+    "main.38d10161.js.map": "/tarvics.github.io/solar/static/js/main.38d10161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25033c0.css",
+    "static/js/main.38d10161.js"
+  ]
+}
