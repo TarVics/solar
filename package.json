@@ -1,7 +1,7 @@
 {
   "name": "solar",
   "version": "0.1.0",
-  "homepage": "tarvics.github.io/solar",
+  "homepage": "https://tarvics.github.io/solar",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
